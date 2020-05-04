@@ -1,9 +1,9 @@
 # Random
 Random-stuff
 #### I will need you to make 25 exercises by tonight on the following commands. 
-#ls, mkdir, cd, cat, echo, touch, grep, tree #####
+# ls, mkdir, cd, cat, echo, touch, grep, tree #####
 
-##1. ls --> ls - list directory contents
+## 1. ls --> ls - list directory contents
 
 Intro :-->
             List  information  about  the FILEs (the current directory by default).
@@ -12,10 +12,10 @@ Intro :-->
 
 ###Questions:--
 
-            ####1. List all the files in the directory ?
-            ####2. List the files in reverse alphabetical order ?
-            ####3. List all the file directory with author of each file ?
-            ####4. List all the files in a long listing format ?
+            #### 1. List all the files in the directory ?
+            #### 2. List the files in reverse alphabetical order ?
+            #### 3. List all the file directory with author of each file ?
+            #### 4. List all the files in a long listing format ?
 
 ##2. mkdir --> mkdir - make directories
 
