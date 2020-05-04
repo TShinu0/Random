@@ -54,7 +54,7 @@ Intro :--->
             #### 3. Display the data that is in the file named "yolo.txt" without any empty output lines ?
             #### 4. Display the data in the file named "yolo.txt" and with "$" at the end of each line ?
 
-##5. echo ---> echo - display a line of text
+## 5. echo ---> echo - display a line of text
 
 Intro :---> 
             Echo the STRING(s) to standard output.
