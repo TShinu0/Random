@@ -3,6 +3,8 @@
 ##   What is Linux?
 
 **LINUX**  is an operating system or a kernel distributed under an open-source license. Its functionality list is quite like UNIX. The kernel is a program at the heart of the Linux operating system that takes care of fundamental stuff, like letting hardware communicate with software.
+[![What is Linux?](https://www.guru99.com/images/OperatingSystemBasics.png "Introduction to the Linux Operating System")](https://www.guru99.com/images/OperatingSystemBasics.png)
+
 ## Is it for me?
 [![Introduction to the Linux Operating System](https://www.guru99.com/images/Should_I_Use_IT.png "Introduction to the Linux Operating System")](https://www.guru99.com/images/Should_I_Use_IT.png)
 
