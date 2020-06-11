@@ -14,7 +14,11 @@ I know you’ve seen The Matrix and let’s face it, it’s just cool. Trinity k
 Some of the operating screens you saw were the Linux command line or GUI interface. Learn Linux and you’ll be able to do cool things like they did in The Matrix. Use Linux on your desktop and create one of the most awesome and unique desktop design layouts known to man. The flexibility is amazing.
 ### 5. It’s the last “real” community frontier
 What do I mean by this? Simple, nearly everything about Linux is community driven. The software is free, and the initiative is to better the operating system. This means you can learn from other developers in the community and you’re never forced to buy the “upgrade” or “next” version of the operating system. It’s open, as long as you contribute to the community, it can contribute back ten fold.
+
 ### 4. It will increase your geek kung fu
+
+![https://vignette.wikia.nocookie.net/vsbattles/images/b/bf/Kung-Fu-Panda-Render-copy.gif](https://vignette.wikia.nocookie.net/vsbattles/images/b/bf/Kung-Fu-Panda-Render-copy.gif)
+
 Seriously, EVERYBODY is a “geek” now days. It seems like just using the internet now classifies you as a geek. Well, learning Linux gives you real geek credibility – it’s hard, it’s flexible, it’s open, and it’s primarily command line driven. Your friends running Windows or OSX can’t say that.
 ### 3. It’s the most popular server OS on the internet and still growing
 Open source is a movement that started years ago but is only now really making inroads in the tech industry. Linux offers low cost servers that can run almost every major web development language available (even c# sometimes). With the availability of cloud computing, the Linux market share is skyrocketing. Know Linux and you’ll be a better freelancer or more “hireable” to potential employers.
