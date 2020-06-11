@@ -23,9 +23,16 @@ Seriously, EVERYBODY is a “geek” now days. It seems like just using the inte
 ### 3. It’s the most popular server OS on the internet and still growing
 Open source is a movement that started years ago but is only now really making inroads in the tech industry. Linux offers low cost servers that can run almost every major web development language available (even c# sometimes). With the availability of cloud computing, the Linux market share is skyrocketing. Know Linux and you’ll be a better freelancer or more “hireable” to potential employers.
 ### 2. It’s as customizable…as much or as little as you want
+
+![https://i.pinimg.com/originals/5d/57/12/5d571224bfe3dd6b9b9bc8db9c73f68f.png](https://i.pinimg.com/originals/5d/57/12/5d571224bfe3dd6b9b9bc8db9c73f68f.png)
+
 Linux is the open source operating system which all other major open source projects are built from. OSX is built off of BSD/Unix; Google’s Android operating system is built off of Linux; even new versions of Windows servers are being designed to run more lightweight like Linux.
 ### 1. SpaceX hires Linux administrators
-If you’re not a space nerd, then you have no business here. Who wouldn’t want to work on the next generation of space flight?!
+![https://fossbytes.com/wp-content/uploads/2020/06/SpaceX-Used-More-Than-4000-Linux-Computers-For-Every-60-Starlink-Satellite-Launch.jpg](https://fossbytes.com/wp-content/uploads/2020/06/SpaceX-Used-More-Than-4000-Linux-Computers-For-Every-60-Starlink-Satellite-Launch.jpg)
+If you’re not a space nerd, then you have no business here.
+![https://wp-assets.futurism.com/2020/06/spacex-sent-atsronauts-orbit-using-linux.jpg](https://wp-assets.futurism.com/2020/06/spacex-sent-atsronauts-orbit-using-linux.jpg)
+
+Who wouldn’t want to work on the next generation of space flight?!
 
 ## ----> Well if you dont like those Here are *30* Reasons Why !!! 
 
