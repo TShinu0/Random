@@ -5,7 +5,13 @@ It’s simple: you need to learn Linux. You’ve heard about Linux, you could ev
 ## Here are 6 Reasons why 
 
 ### 6. It was used in The Matrix
-I know you’ve seen The Matrix and let’s face it, it’s just cool. Trinity knows nmap. Some of the operating screens you saw were the Linux command line or GUI interface. Learn Linux and you’ll be able to do cool things like they did in The Matrix. Use Linux on your desktop and create one of the most awesome and unique desktop design layouts known to man. The flexibility is amazing.
+![https://w0tt.files.wordpress.com/2011/06/matrix.gif](https://w0tt.files.wordpress.com/2011/06/matrix.gif)
+
+I know you’ve seen The Matrix and let’s face it, it’s just cool. Trinity knows nmap.
+
+![https://binaryblogger.com/wp-content/uploads/2015/05/nmap-trinity.png](https://binaryblogger.com/wp-content/uploads/2015/05/nmap-trinity.png)
+
+Some of the operating screens you saw were the Linux command line or GUI interface. Learn Linux and you’ll be able to do cool things like they did in The Matrix. Use Linux on your desktop and create one of the most awesome and unique desktop design layouts known to man. The flexibility is amazing.
 ### 5. It’s the last “real” community frontier
 What do I mean by this? Simple, nearly everything about Linux is community driven. The software is free, and the initiative is to better the operating system. This means you can learn from other developers in the community and you’re never forced to buy the “upgrade” or “next” version of the operating system. It’s open, as long as you contribute to the community, it can contribute back ten fold.
 ### 4. It will increase your geek kung fu
