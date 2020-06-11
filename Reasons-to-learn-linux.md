@@ -1,7 +1,6 @@
 # Reasons to Learn Linux
 
 It’s simple: you need to learn Linux. You’ve heard about Linux, you could even be a developer that knows “open source,” but have never used Linux as a server operating system or desktop operating system. Instead of pumping you with the usual Linux superiority reasons, here are six simple and strait-forward reasons you need to learn Linux.
-Learn Linux At The Linux Academy
 
 ## Here are 6 Reasons why 
 
